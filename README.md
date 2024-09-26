@@ -3,7 +3,7 @@ Most recent update of the worlbank.org api documentaion.
 26-09-2024
 --------------------------------------------------------------------------------------------------
 This repository contains the developer documentation for the wb-api-developer-docs in fully working order.
-The 'http://' urlstrings within the <a href> tags have been replaced by 'https://' making all
+The 'http://' urlstrings within the 'a href' tags have been replaced by 'https://' making all
 the hypertext links now fully clickable.
 The modification of the .htm files was performed programmatically using the python scripts found
 within this repo.
