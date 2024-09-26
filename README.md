@@ -1,18 +1,23 @@
-# world-bank-api-documentation-update
+# World Bank API Documentation Updates.
 Most recent update of the worlbank.org api documentaion.
+26-09-2024
 --------------------------------------------------------------------------------------------------
+This repository contains the developer documentation for the wb-api-developer-docs in fully working order.
+The 'http://' urlstrings within the <a href> tags have been replaced by 'https://' making all
+the hypertext links now fully clickable.
+The modification of the .htm files was performed programmatically using the python scripts found
+within this repo.
+The code blocks were edited manually to reflect the changes.
+All links return XML data by default (to return data as json add '&format=json' to urlstring).
 
- # World Bank API Documentation Updates.
-
- 26-09-2024
-
+---------------------------------------------------------------------------------------------------
 
 Entry Point:(Does not require editing)
                                              
 Developer Information - URL: (https://datahelpdesk.worldbank.org/knowledgebase/topics/125589?_gl=1*g3gz87*_gcl_au*MTY0MTI2NTI5NC4xNzI3MzQ3MDk5)
 ← Knowledge Base
 
-Links to pages that require updating (replace pages below with updated versions):
+Links to pages that require updating (replace pages below with updated versions in this repository):
 
     Developer Information: Overview 
 	URL:(https://datahelpdesk.worldbank.org/knowledgebase/articles/889386-developer-information-overview)
