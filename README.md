@@ -63,4 +63,4 @@ Links to pages that require updating (replace pages below with updated versions 
 	Organization: worldbank.org
 	Server IP Addresses:35.71.168.154, 52.223.24.49
            
-	Third party update performed by Psico Communications and Blockcjain Development.
+	Third party update performed by Psico Communications and Blockchain Development.
